@@ -1,1 +1,2 @@
-aded new feature
+ aded new feature
+added new lines
