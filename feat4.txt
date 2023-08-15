@@ -1,3 +1,4 @@
 this is latest feature
 adding one more line for pull request checking
 adding new for backend push
+squash command
